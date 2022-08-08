@@ -48,6 +48,14 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183453002-a5533860-4530-42fd-8fc9-ba46578bcd27.png)
 ![image](https://user-images.githubusercontent.com/46148300/183453116-7914edc4-308c-4c05-be8f-e8cd3fd8ea1a.png)
 
+# Day 3:  Design library cell using magic layout and NgSpice characterization
+* A inverter cell layout was given
+![image](https://user-images.githubusercontent.com/46148300/183455221-94a5f474-b66a-4736-9370-15ed12730791.png)
+* Then extracted to spice and simulated the edited netlist
+![image](https://user-images.githubusercontent.com/46148300/183455577-e6930620-50b8-4276-833a-e93d82be07d5.png)
+
+
+
 
 
 
