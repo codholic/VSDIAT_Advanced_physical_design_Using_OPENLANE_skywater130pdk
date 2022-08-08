@@ -72,9 +72,14 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183458598-7fec59c2-d14e-4c74-b0b9-7057927523f9.png)
 ![image](https://user-images.githubusercontent.com/46148300/183458621-ea0b2bfb-8411-482b-8679-f8f870fe7d32.png)
 
+# Day 5: Final Steps for RTL2GDS using tritonroute and openSTA
+![image](https://user-images.githubusercontent.com/46148300/183459380-0d5ee6d1-9849-4565-93bc-ef39e169aa9c.png)
+![image](https://user-images.githubusercontent.com/46148300/183459456-4b09bdc6-d765-4ebe-8b2c-cd78d63ad488.png)
+![image](https://user-images.githubusercontent.com/46148300/183459484-e3f3e949-931a-4c04-a031-3b9c5000648d.png)
 
-
-
+# Acknowledgement
+* [Kunal Ghosh](https://github.com/kunalg123)
+* [Nickson Jose](https://github.com/nickson-jose)
 
 
 
