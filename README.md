@@ -15,4 +15,16 @@ All of these were integrated in the OpenLane flow which is why OpenLane is used 
 Learnings of the day:
 A brief introduction RTL to GDS Flow, SOC design and RISCV architecture was given at first as later we have worked using picorv32a which is based on RISCV
 Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
+ 
+* Invoking OpenLane and Preparing Design
+![image](https://user-images.githubusercontent.com/46148300/183443947-9eee4e29-614f-47c3-9a81-892991e533ef.png)
+* Then we edited the cofig.tcl file before running synthesis, Edited config.tcl is in the following, Changes I made are :
+   * setting Core utilization, IO vertical and horizontal metal, Clock Period 
+![image](https://user-images.githubusercontent.com/46148300/183444998-92b8b354-6723-453c-8f96-989216050e6e.png)
+* After that, ran synthesis from openlane interactive terminal
+![image](https://user-images.githubusercontent.com/46148300/183445411-ecff8b83-2587-4774-b9b7-e14ad0d32086.png)
+
+
+
+
 
