@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/46148300/183461134-dd7c07ff-ada9-4d6a-bad2-c72d6342aca8.png)
 # VSDIAT_Advanced_physical_design_Using_OPENLANE_skywater130pdk
 This repo is a part of the partial fulfilment of the 5-days "Advanced Physical Design Workshop using OpenLANE using SKY130" workshop, powered by VLSI System Design and sponsored by Efabless Corporation
 
