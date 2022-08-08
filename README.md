@@ -63,8 +63,14 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183458078-a84eff76-d18e-4202-8af6-0e3f32d937fb.png)
 
 * Improving slack by increasing area 
-![image](https://user-images.githubusercontent.com/46148300/183457826-2a3bf1e0-90b8-4f5c-9fdb-d7c481c19f58.png)
+* by OpenSTA outside OpenLane flow
 ![image](https://user-images.githubusercontent.com/46148300/183457865-ace5ef71-9702-400f-96eb-e7bdd9b8a37b.png)
+* From OpenLane flow
+![image](https://user-images.githubusercontent.com/46148300/183458360-b5500f95-8b88-4952-a321-aada175ebd63.png)
+![image](https://user-images.githubusercontent.com/46148300/183457826-2a3bf1e0-90b8-4f5c-9fdb-d7c481c19f58.png)
+![image](https://user-images.githubusercontent.com/46148300/183458522-90f3f06c-e801-4a71-aa95-dbd7a37243d5.png)
+![image](https://user-images.githubusercontent.com/46148300/183458598-7fec59c2-d14e-4c74-b0b9-7057927523f9.png)
+![image](https://user-images.githubusercontent.com/46148300/183458621-ea0b2bfb-8411-482b-8679-f8f870fe7d32.png)
 
 
 
