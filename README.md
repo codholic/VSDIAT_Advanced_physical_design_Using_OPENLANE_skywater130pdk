@@ -53,8 +53,18 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183455221-94a5f474-b66a-4736-9370-15ed12730791.png)
 * Then extracted to spice and simulated the edited netlist
 ![image](https://user-images.githubusercontent.com/46148300/183455577-e6930620-50b8-4276-833a-e93d82be07d5.png)
+* Then we inserted the given inverter into picorv32a 
+![image](https://user-images.githubusercontent.com/46148300/183457903-90808123-7db0-4d4e-b2eb-d742426c569b.png)
 
+# Day 4: Pre-layout timing analysis and  Importance of good clock tree
+![image](https://user-images.githubusercontent.com/46148300/183456760-bae40703-0579-4feb-954b-f1ee19dd81b9.png)
+![image](https://user-images.githubusercontent.com/46148300/183458038-72375f92-8f06-4b64-bfe3-14d16c2d30aa.png)
+![image](https://user-images.githubusercontent.com/46148300/183458058-9615a501-3179-4375-9afd-8de5627ff27c.png)
+![image](https://user-images.githubusercontent.com/46148300/183458078-a84eff76-d18e-4202-8af6-0e3f32d937fb.png)
 
+* Improving slack by increasing area 
+![image](https://user-images.githubusercontent.com/46148300/183457826-2a3bf1e0-90b8-4f5c-9fdb-d7c481c19f58.png)
+![image](https://user-images.githubusercontent.com/46148300/183457865-ace5ef71-9702-400f-96eb-e7bdd9b8a37b.png)
 
 
 
