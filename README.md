@@ -77,6 +77,15 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183459380-0d5ee6d1-9849-4565-93bc-ef39e169aa9c.png)
 ![image](https://user-images.githubusercontent.com/46148300/183459456-4b09bdc6-d765-4ebe-8b2c-cd78d63ad488.png)
 ![image](https://user-images.githubusercontent.com/46148300/183459484-e3f3e949-931a-4c04-a031-3b9c5000648d.png)
+* there was ups and down in violation during routing 
+After 5th iteration
+
+![image](https://user-images.githubusercontent.com/46148300/183463591-3c0a990f-0cb0-477c-8f16-f4a70b52a5a7.png)
+
+After 33rd iteration
+
+![image](https://user-images.githubusercontent.com/46148300/183463017-d9a6ed78-7650-4533-96c3-b7c96bc9852b.png)
+
 
 # Acknowledgement
 * [Kunal Ghosh](https://github.com/kunalg123)
