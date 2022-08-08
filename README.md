@@ -28,8 +28,18 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
   * Flop Ratio= (Total no.of Flops )/(Total no.of cells)=1613/14876=.108=10.8%
 ![image](https://user-images.githubusercontent.com/46148300/183447701-63f08942-251f-430b-beb3-7ccf82f10789.png)
 ![image](https://user-images.githubusercontent.com/46148300/183447787-92e36f9c-f894-45d0-970a-2175079c79ad.png)
+
+# Day 2:   Good FloorPlan, Bad FloorPlan and Introduction to Library Cells
 * Then comes Floor Plan
 ![image](https://user-images.githubusercontent.com/46148300/183449816-d9aa4166-bda4-4adb-81a5-a2b40c5e301d.png)
+* Visualize Floorplan by magic 
+![image](https://user-images.githubusercontent.com/46148300/183451672-4e8b0200-74a5-49af-a774-0939e52a7118.png)
+![image](https://user-images.githubusercontent.com/46148300/183451707-68bf16b9-b371-4fb5-86c3-5b7482aa5da6.png)
+![image](https://user-images.githubusercontent.com/46148300/183451754-60081f82-4d40-49a0-81e7-9818ed478841.png)
+* I also tried out some commands on tkcon like %what to see the selection info and etc.
+![image](https://user-images.githubusercontent.com/46148300/183451989-e6869862-449d-4a55-bd10-ec6f6c683b01.png)
+
+
 
 
 
