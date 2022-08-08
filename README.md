@@ -23,6 +23,12 @@ Then OpenLane Flow was introduced, Let’s see what I did using OpenLane!!!
 ![image](https://user-images.githubusercontent.com/46148300/183444998-92b8b354-6723-453c-8f96-989216050e6e.png)
 * After that, ran synthesis from openlane interactive terminal
 ![image](https://user-images.githubusercontent.com/46148300/183445411-ecff8b83-2587-4774-b9b7-e14ad0d32086.png)
+![image](https://user-images.githubusercontent.com/46148300/183445680-b6fb60b1-e54d-464a-ac79-6b1ea5968289.png)
+* We were asked to calculate the flop ratio which is :
+  * Flop Ratio= (Total no.of Flops )/(Total no.of cells)=1613/14876=.108=10.8%
+![image](https://user-images.githubusercontent.com/46148300/183447223-fdd68522-3c38-42d7-b9dd-6ada2bd1d10a.png)
+![image](https://user-images.githubusercontent.com/46148300/183447254-6be0ce28-8056-4b40-a0ae-9c9fc0ab04be.png)
+
 
 
 
